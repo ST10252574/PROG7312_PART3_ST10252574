@@ -99,3 +99,7 @@ Then rebuild and run the solution from Visual Studio.
 - `docs/Part3-Git-Push-Guide.md` — safe ZIP extraction and 20 meaningful PowerShell commit steps for the empty submission repository.
 
 For the Visual Studio setup and test steps, see [`visual-studio/README.md`](visual-studio/README.md).
+
+## AI Tool Disclosure -- Claude
+
+- Claude Ai was used to debug and fault find errors with code. All final decisions were made by Sabein Naidoo
